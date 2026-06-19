@@ -1,4 +1,3 @@
-
 # Damage Claim Adjudication System
 
 An AI-powered full-stack web application that automates the adjudication of damage claims (car, laptop, package) using GPT-4o vision analysis. Adjusters submit a claim with image evidence and a conversation transcript; the system returns a structured verdict with confidence score and reasoning.
@@ -161,3 +160,6 @@ pnpm run typecheck
 
 ---
 
+## License
+
+MIT
